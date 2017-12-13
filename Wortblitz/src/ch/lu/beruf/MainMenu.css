@@ -1,0 +1,11 @@
+.root, .button {
+	-fx-background-color: rgb(255, 255, 255);
+}
+
+
+.label {
+	-fx-padding: 5px;
+}
+.button:hover {
+	-fx-background-color: lightblue;
+}
