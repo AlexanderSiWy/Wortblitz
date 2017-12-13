@@ -6,6 +6,6 @@
 			<accessrule kind="accessible" pattern="javafx/**"/>
 		</accessrules>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Privat/alexander.wyss/workspace/WortblitzWithChat/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Privat/alexander.wyss/PrivateGit/WortblitzWithChat/mysql-connector-java-5.1.41-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
