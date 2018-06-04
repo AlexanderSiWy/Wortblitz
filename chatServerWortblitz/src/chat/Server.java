@@ -13,7 +13,7 @@ public class Server {
   public static void main(String[] args) throws IOException {
     try (ServerSocket serverSocket = new ServerSocket(1231)) {
       sockets = new ArrayList<>();
-      while (1 == 1) {
+      while (true) {
         Socket socket = serverSocket.accept();
         sockets.add(socket);
         activate(socket);
